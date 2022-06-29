@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echitex
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science on Coursera
 - 💞️ I’m looking to collaborate on projects relating to data science and R programming
 - 📫 You can reach me via echitex@gmail.com
 
